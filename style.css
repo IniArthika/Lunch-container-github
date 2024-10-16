@@ -1,18 +1,45 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
 
-.alatsi-regular {
+.navbar-brand {
     font-family: "Alatsi", sans-serif;
     font-weight: 400;
-    font-style: normal;
+    font-style: bold;
+    padding-left: 100px;
+    font-size: 30px;
   }
   
-.type {
-    text-align: center;
-}
 
 .moul-regular {
     font-family: "Moul", serif;
     font-weight: 400;
     font-style: normal;
   }
+
+
+.login-button.moul-regular {
+  background-color: #94CDEC;
+  color: aliceblue;
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: 0.3s background-color;
+}
+
+.login-button.moul-regular:hover {
+  background-color: aqua;
+}
+
+.nav-link {
+  color: #666777;
+  font-weight: 500;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: #001;
+}
+
+
+
+
