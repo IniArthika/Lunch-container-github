@@ -48,4 +48,8 @@
   height: 500px;
 }
 
-
+#item2 {
+  object-fit: contain;
+  width: 100%;
+  height: 500px;
+}
