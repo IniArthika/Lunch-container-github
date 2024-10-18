@@ -49,5 +49,15 @@ footer p, footer a {
 }
 
 footer .social-icons i {
-    font-size: 20px;
+    font-size: 2px;
 }
+
+.footer.text-start {
+    color: #eaeaea;
+    margin-left: 30px;
+}
+
+
+
+
+                    
