@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+
 .navbar-brand {
     font-family: "Alatsi", sans-serif;
     font-weight: 400;
