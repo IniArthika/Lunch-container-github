@@ -16,8 +16,10 @@ body {
     max-width: 150px;
 }
 
-.rating {
-    color: #ffcc00;
+.product-price {
+    font-size: 1.25rem;
+    color: #007bff;
+    margin-bottom: 1rem;
 }
 
 .card {
