@@ -61,13 +61,13 @@
                             Foto
                         </td>
                         <td>
-                        <input type="file" name="foto" placeholder="Foto" id=""><br/>
+                        <input type="file" name="image" placeholder="Foto" id=""><br/>
                         </td>
                     </tr>
 
                     <tr>
                         <td>
-                        <input type="submit" value="Input Data" name="inputData">
+                        <button>Submit</button>
                         </td>
                     </tr>
                 </table>
